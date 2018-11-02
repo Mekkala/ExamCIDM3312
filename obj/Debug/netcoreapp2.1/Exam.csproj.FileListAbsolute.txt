@@ -1,0 +1,11 @@
+C:\CIDM3312\Assignment\Exam\obj\Debug\netcoreapp2.1\Exam.csprojAssemblyReference.cache
+C:\CIDM3312\Assignment\Exam\obj\Debug\netcoreapp2.1\Exam.csproj.CoreCompileInputs.cache
+C:\CIDM3312\Assignment\Exam\obj\Debug\netcoreapp2.1\Exam.AssemblyInfoInputs.cache
+C:\CIDM3312\Assignment\Exam\obj\Debug\netcoreapp2.1\Exam.AssemblyInfo.cs
+C:\CIDM3312\Assignment\Exam\bin\Debug\netcoreapp2.1\Exam.deps.json
+C:\CIDM3312\Assignment\Exam\bin\Debug\netcoreapp2.1\Exam.runtimeconfig.json
+C:\CIDM3312\Assignment\Exam\bin\Debug\netcoreapp2.1\Exam.runtimeconfig.dev.json
+C:\CIDM3312\Assignment\Exam\bin\Debug\netcoreapp2.1\Exam.dll
+C:\CIDM3312\Assignment\Exam\bin\Debug\netcoreapp2.1\Exam.pdb
+C:\CIDM3312\Assignment\Exam\obj\Debug\netcoreapp2.1\Exam.dll
+C:\CIDM3312\Assignment\Exam\obj\Debug\netcoreapp2.1\Exam.pdb
